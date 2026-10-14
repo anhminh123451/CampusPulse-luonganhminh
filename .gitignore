@@ -1,0 +1,7 @@
+plan
+.venv
+env
+venv
+.env
+*.env
+*.venv
